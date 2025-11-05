@@ -1,0 +1,3 @@
+/home/slimane/chessengine/build/CMakeFiles/chessengine.dir
+/home/slimane/chessengine/build/CMakeFiles/edit_cache.dir
+/home/slimane/chessengine/build/CMakeFiles/rebuild_cache.dir
